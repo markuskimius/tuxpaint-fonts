@@ -3,22 +3,22 @@
 This is the source code to the [Tux Paint Fonts] Installer for macOS.
 
 
-## REQUIREMENTS
+## Requirements
 
 * macOS 11 Big Sur or later.
 * Either the Intel or the Apple Silicon version of the Mac is fine.
 * Xcode 12 or 13, the latest as of this writing.
 
 
-## BUILD INSTRUCTIONS
+## Build Instructions
 
-From the Terminal, run `make` in the directory above this directory to create
+From the Terminal, run `make` in this directory to create
 the app bundle and the DMG file.
 
 
-## CREDITS
+## Credits
 
-Martin Fuhrer <mfuhrer@alumni.ucalgary.ca> is the original author of the macOS
+Martin Fuhrer <<mfuhrer@alumni.ucalgary.ca>> is the original author of the macOS
 port of the Tux Paint Stamps Installer which has been adapted to be the Tux
 Paint Fonts Installer by other Tux Paint contributors.
 
