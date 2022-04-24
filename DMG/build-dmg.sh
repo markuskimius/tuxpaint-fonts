@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##############################################################################
-# Script to generate a DMG from an App Bundle.
+# Script to generate a Tux Paint DMG from an App Bundle.
 #
 # Generating a pretty DMG file programmatically is a bit of an art.  Many
 # thanks to the appdmg project for showing how:
@@ -11,7 +11,7 @@
 
 function usage() {
     cat <<EOF
-A skeleton program.
+Generate a Tux Paint DMG from an App Bundle.
 
 Usage: ${SCRIPTNAME} [OPTIONS] APPBUNDLE
 
