@@ -3,7 +3,7 @@
 This is the source code to the [Tux Paint Fonts] Installer for macOS.
 
 
-## Requirements
+## Build Requirements
 
 * macOS 11 Big Sur or later.
 * Either the Intel or the Apple Silicon version of the Mac is fine.
